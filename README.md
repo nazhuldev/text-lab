@@ -1,6 +1,6 @@
 # 🧪 Text Lab
 
-App nhỏ dùng Python (Flask) để xử lý văn bản: **dịch thuật**, **tóm tắt**, và **phân tích cảm xúc** — tất cả trong một giao diện web đơn giản, gọn gàng.
+App nhỏ dùng Python (Flask) để xử lý văn bản: **dịch thuật**, **tóm tắt**, và **phân tích cảm xúc** - tất cả trong một giao diện web đơn giản, gọn gàng.
 
 ## ✨ Tính năng
 
