@@ -4,9 +4,9 @@ App nhỏ dùng Python (Flask) để xử lý văn bản: **dịch thuật**, **
 
 ## ✨ Tính năng
 
-- 🌐 **Dịch thuật** — dịch văn bản qua nhiều ngôn ngữ (Anh, Việt, Nhật, Hàn, Trung, Pháp...)
-- ✂️ **Tóm tắt văn bản** — rút gọn đoạn văn dài thành các câu quan trọng nhất
-- 🎭 **Phân tích cảm xúc** — đoán văn bản mang sắc thái tích cực, tiêu cực hay trung lập
+- 🌐 **Dịch thuật** - dịch văn bản qua nhiều ngôn ngữ (Anh, Việt, Nhật, Hàn, Trung, Pháp...)
+- ✂️ **Tóm tắt văn bản** - rút gọn đoạn văn dài thành các câu quan trọng nhất
+- 🎭 **Phân tích cảm xúc** - đoán văn bản mang sắc thái tích cực, tiêu cực hay trung lập
 
 ## 🛠️ Công nghệ sử dụng
 
