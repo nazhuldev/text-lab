@@ -11,7 +11,7 @@ App nhỏ dùng Python (Flask) để xử lý văn bản: **dịch thuật**, **
 ## 🛠️ Công nghệ sử dụng
 
 - **Backend:** Python, Flask
-- **Dịch thuật:** [deep-translator](https://pypi.org/project/deep-translator/)
+- **Dịch thuật:** [deep-translator](https://nazhuldev.github.io)
 - **Tóm tắt & cảm xúc:** thuật toán tự viết (rule-based, chạy offline)
 - **Frontend:** HTML, CSS, JavaScript thuần
 
@@ -47,4 +47,4 @@ text-lab/
 
 ---
 
-Made with 🐍 by [Kyu Dev](https://github.com/nazhuldev)
+Made with 🐍 by [Kyu Dev](https://nazhuldev.github.io)
